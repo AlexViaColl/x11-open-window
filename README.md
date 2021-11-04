@@ -1,7 +1,7 @@
 # xlib-simple-window
 
 A simple skeleton for a GUI application using X11.
-Check out this [post](https://www.alexvia.com/post/xxx_xlib_opening_window/) for a more in depth explanation.
+Check out this [post](https://www.alexvia.com/post/xlib_opening_window/) for a more in depth explanation.
 
 
 ## Quickstart
