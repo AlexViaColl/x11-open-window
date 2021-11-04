@@ -12,9 +12,11 @@ The only dependencies are:
 - X11 development package
 
 To compile the program just run:
-
 ```
 gcc -o x11_window `pkg-config --libs x11` x11_window.c
 ```
 
-[!screenshot](./screenshot.png)
+
+And here's the result:
+
+![screenshot](./screenshot.png)
