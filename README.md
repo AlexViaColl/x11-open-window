@@ -16,3 +16,5 @@ To compile the program just run:
 ```
 gcc -o x11_window `pkg-config --libs x11` x11_window.c
 ```
+
+[!screenshot](./screenshot.png)
